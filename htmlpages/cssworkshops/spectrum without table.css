@@ -1,0 +1,42 @@
+#box1{
+    height:300px;
+    width:100px;
+    background-color:red;
+    margin-left:50px;
+}
+#box2{
+    height:300px;
+    width:100px;
+    background-color:blue;
+    margin-left:170px;
+    margin-top: -300px;
+}
+#box3{
+    height:300px;
+    width:100px;
+    background-color:black;
+    margin-left:300px;
+    margin-top: -300px;
+}
+#box4{
+
+height:300px;
+    width:100px;
+    background-color:purple;
+    margin-left:420px;
+    margin-top: -300px
+}
+#box5{
+    height:300px;
+    width:100px;
+    background-color:green;
+    margin-left:540px;
+    margin-top: -300px
+}
+#main{
+  margin-left:300px;
+}
+h1{
+    text-align:center;
+    font-family:'Big Shoulders Inline Text', cursive;
+}

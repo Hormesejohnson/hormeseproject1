@@ -1,0 +1,53 @@
+#column1{
+
+    border-style: solid;
+    border-color:black;
+    
+    background-color:yellow;
+    width: 200px;
+    height:500px;
+    
+
+    
+    
+}
+#column2{
+   
+    border-style: solid;
+
+border-color: red;
+ background-color:green;
+    width: 200px;
+    height:500px;
+    
+    
+}
+    
+#column3{
+    border-style: solid;
+
+    border-color:brown;
+    
+    
+    
+    background-color:black;
+    width: 200px;
+    height:500px;
+}
+
+
+#column4{
+    border-style:solid;
+border-color: lightcoral;
+    background-color:lightblue;
+    width: 200px;
+    height:500px;
+
+}
+h1{
+    text-align:center;
+    font-family: 'Pacifico', cursive;
+}
+div{
+    margin-left:200px;
+}

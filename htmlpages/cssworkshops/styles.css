@@ -1,0 +1,41 @@
+h1
+{color:brown;}
+body{background-image: url("/home/hormese/Desktop/java luminar/htmlpages/pexels-photo-736230.webp");
+background-size:cover;}
+#team{
+    color:rgb(40,148,146)
+}
+div{
+    text-align: center;
+    border-style: solid;
+    border-color: darkolivegreen;
+    border-width :5px;
+    background-color:rgb(40,148,146,0.500);
+    width:50%;
+}
+    
+    
+}
+#mi{
+    text-align: center;
+    border-style: solid;
+    border-color: green;
+    border-width :5px;
+    background-color:blue;
+    width: 50%;
+
+    
+}
+.team{
+    text-align: center;
+    border-style: solid;
+    border-color: yellow;
+    border-width :5px;
+    background-color:lightblue;
+    width:50%;
+    
+       
+} 
+li{
+    margin-left:200px;
+}
